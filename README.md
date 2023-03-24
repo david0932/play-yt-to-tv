@@ -5,3 +5,4 @@
 2. flask
 
 程式碼由ChatGPT產生，加以修改至最後功能。
+ChatGPT寫Code過程: https://vimeo.com/811228611
