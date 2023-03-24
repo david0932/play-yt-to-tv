@@ -1,6 +1,6 @@
 # Youtube TV Player on Raspberry Pi 
 
-需使用python套件
+使用python套件:
 1. yt-dlp
 2. flask
 
