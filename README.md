@@ -1,4 +1,4 @@
-# Youtube TV Player on Raspberry Pi 
+# Youtube TV Player on Raspberry Pi by ChatGPT
 
 使用python套件:
 1. yt-dlp
